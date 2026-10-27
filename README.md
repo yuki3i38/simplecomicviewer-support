@@ -1,0 +1,2 @@
+# simplecomicviewer-support
+SimpleComicViewerのサポートとプライバシーポリシー
